@@ -3,3 +3,9 @@ Operating System Function #1: Graphical User Interface (GUI)
 The graphical user interface is one of the first distinctions you'll notice between different operating systems.
 Each OS has their own look, organization, app/program templates and even browser interface differences.
 Opening a web browswer in iOS will look vastly different than one opened in Windows.
+
+Operating System Function #2: Managing Programs
+
+We have come a long way from the limitations of previous OS versions, where only one program could be used at a time.
+Today, we are able to navigate between multiple open programs and minimized programs, and if wanted, able to view them all at the same time.
+Installing and removing programs has become immensely easier, and being able to start and end tasks is now only a couple clicks away.
