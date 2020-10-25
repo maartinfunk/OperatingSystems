@@ -1,0 +1,5 @@
+Operating System Function #1: Graphical User Interface (GUI)
+
+The graphical user interface is one of the first distinctions you'll notice between different operating systems.
+Each OS has their own look, organization, app/program templates and even browser interface differences.
+Opening a web browswer in iOS will look vastly different than one opened in Windows.
