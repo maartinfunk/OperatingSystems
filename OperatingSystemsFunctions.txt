@@ -9,3 +9,10 @@ Operating System Function #2: Managing Programs
 We have come a long way from the limitations of previous OS versions, where only one program could be used at a time.
 Today, we are able to navigate between multiple open programs and minimized programs, and if wanted, able to view them all at the same time.
 Installing and removing programs has become immensely easier, and being able to start and end tasks is now only a couple clicks away.
+
+Operating System Function #3: Configuring Devices
+
+Operating systems aren't limited to making only your internal components work together, but also being able to introduce external components seamlessly.
+Through the many years, there are thousands upon thousands of devices currently in rotation with many more to come, and it's up to the OS to make them work for your PC/device.
+By the use of drivers, peripherals are able to communicate with the OS, sometimes straight out of the box, but most times, downloaded over the internet.
+Drivers sometimes fix problems you didn't know you had, sometimes they aren't necessary and don't do much, or sometimes they mess everything up and your laptop keyboard stops working.
